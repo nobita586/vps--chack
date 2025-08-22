@@ -33,6 +33,6 @@
 ```bash
 git clone https://github.com/nobita586/vps--chack.git
 cd vps--chack
-chmod +x vm.sh
- ./vm.sh
+chmod +x vmm.sh
+ ./vmm.sh
 
