@@ -31,6 +31,8 @@
 1. Download or create the script `vm.sh`:
 
 ```bash
+git clone https://github.com/nobita586/vps--chack.git
+cd vps--chack
 chmod +x vm.sh
-./vm.sh
-# Paste the script content and save
+ ./vm.sh
+
